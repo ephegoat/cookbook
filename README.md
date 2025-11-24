@@ -62,16 +62,7 @@ scorton-hackathon/
 - Rédaction d’un rapport professionnel
 
 ---
-## Test Scorton Extension & API
-Pour s'inscrire à notre API il faut passer par l'extension Chrome ou Firefox
-### **Extension
 
-### **API
-```bash
-radar.scorton.tech
-radar.scorton.tech/docs
-radar.scorton.tech/ui
-```
 ## 🧩 Aperçu des Challenges
 
 ### **Challenge 1 — VibeStream**
